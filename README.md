@@ -82,4 +82,9 @@ Stream of conciousness ideas that could be used.
 - Tell your money what to do instead of wondering where it went?
 - Total Money Makeover?
 - The Baby steps?
--
+
+### Inspirations
+
+- [Trumpscript](https://github.com/samshadwell/TrumpScript)
+- [ArnoldC](https://github.com/lhartikk/ArnoldC)
+- [Vigil](https://github.com/munificent/vigil)
