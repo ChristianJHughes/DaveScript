@@ -4,15 +4,27 @@ Code like no one else.
 
 ## Important Features
 
-- An `EMERGENCY_FUND` must be initalized with a value with of at least 1000. Otherwise, Murphy will move in and your program will promptly crash.
-- Negative numbers are not allowed, and will throw a `DebtIsDumbException()`.
--
+What is the core gimmic? Maybe:
+
+- The language is constantly trying to introduce debt that you must counteract?
+- All of your values must be strictly budgeted for? You must pass a budget in on the command line? Fixed value from which to drain from. Maybe you have to allocate for retirement?
+- What is an anology in programming for debt, and how can restrict the use of that thing?
+- Maybe you have to budget the runtime memory that the program gets? Or just the values that are accessible to the program?
+- Do you have to earn the ability to run certain functions or methods? Perhaps a required annotation or parameter that indicates the cost needed to run a particular bit of logic. You can only run certain functions if it's in the budget. Random problems can occur that randomly lower your budget and print to the console? Take from emergency fund?
+- Should it be effected by opperating system or locale? Which baby step the user is in?
+
+* An `EMERGENCY_FUND` must be initalized with a value with of at least 1000. Otherwise, Murphy will move in and your program will promptly crash.
+* Emergency fund grows at rate of 12 percent per second that your program runs? Don't use it for non-emergencies.
+*
+* Negative numbers are not allowed, and will throw a `DebtIsDumbException()`.
+*
 
 ## Grammar
 
 To declare a variable, use the `budget` keyword.
 
 True -> "Debt is Dumb"
+False -> "Dave's FICO Score"
 
 ## Ideas
 
